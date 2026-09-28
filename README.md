@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/HARSH-260/problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HARSH-260/problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/HARSH-260/problems/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/HARSH-260/problems/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/HARSH-260/problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/HARSH-260/problems/tree/master/1929-concatenation-of-array) |
 ## Binary Search
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/HARSH-260/problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/HARSH-260/problems/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/HARSH-260/problems/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
